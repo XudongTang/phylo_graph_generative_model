@@ -15,5 +15,6 @@
     "gamma":             0.98,
     "lrSteps":           10,
     "summaryFile":      "gae_training.out",
-    "klBeta":			0.001
+    "klBeta":			0.001,
+    "numTaxon":         5
 }
